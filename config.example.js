@@ -1,7 +1,7 @@
 const config = {
     // Login info
-    email: 'youremail@mail.com',
-    password: 'yourPassword',
+    email: 'fuckmedaddy@gmail.com',
+    password: 'robloxisthebesttt2232',
     // Your id. You can get this via the whoami command
     ownerID: '2d291BZ4',
     // The ids of your bot admins. Be careful who you give this to
